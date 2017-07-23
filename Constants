@@ -1,0 +1,86 @@
+/*How wide each tile with a letter on it is*/
+TILE_WIDTH = 8
+
+/*How tall each tile with a letter on it is*/
+TILE_HEIGHT = 12
+
+/*Each player should have 7 tiles at all times*/
+NUM_TILES_PER_PLAYER = 7
+
+/*How many As initially start*/
+A_DISTRIBUTION = 
+
+/*How many Bs initially start*/
+B_DISTRIBUTION = 
+
+/*How many Cs initially start*/
+C_DISTRIBUTION = 
+
+/*How many Ds initially start*/
+D_DISTRIBUTION = 
+
+/*How many Es initially start*/
+E_DISTRIBUTION = 
+
+/*How many Fs initially start*/
+F_DISTRIBUTION = 
+
+/*How many Gs initially start*/
+G_DISTRIBUTION = 
+
+/*How many Hs initially start*/
+H_DISTRIBUTION = 
+
+/*How many Is initially start*/
+I_DISTRIBUTION = 
+
+/*How many Js initially start*/
+J_DISTRIBUTION = 
+
+/*How many Ks initially start*/
+K_DISTRIBUTION = 
+
+/*How many Ls initially start*/
+L_DISTRIBUTION = 
+
+/*How many Ms initially start*/
+M_DISTRIBUTION = 
+
+/*How many Ns initially start*/
+N_DISTRIBUTION = 
+
+/*How many Os initially start*/
+O_DISTRIBUTION = 
+
+/*How many Ps initially start*/
+P_DISTRIBUTION = 
+
+/*How many Qs initially start*/
+Q_DISTRIBUTION = 
+
+/*How many Rs initially start*/
+R_DISTRIBUTION = 
+
+/*How many Ss initially start*/
+S_DISTRIBUTION = 
+
+/*How many Ts initially start*/
+T_DISTRIBUTION =
+
+/*How many Us initially start*/
+U_DISTRIBUTION = 
+
+/*How many Vs initially start*/
+V_DISTRIBUTION = 
+
+/*How many Ws initially start*/
+W_DISTRIBUTION = 
+
+/*How many Xs initially start*/
+X_DISTRIBUTION = 
+
+/*How many Ys initially start*/
+Y_DISTRIBUTION = 
+
+/*How many Zs initially start*/
+Z_DISTRIBUTION = 
